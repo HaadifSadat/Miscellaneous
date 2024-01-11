@@ -1,2 +1,2 @@
-<p1>
-Misc</p1>
+# Miscellaneous
+practiced code
