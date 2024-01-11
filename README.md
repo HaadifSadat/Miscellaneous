@@ -1,2 +1,2 @@
 # Miscellaneous
-practiced code
+just plain code, perhaps just for practice
